@@ -40,4 +40,3 @@ This project focuses on analyzing EEG/EOG signals to recognize brain states. It 
 
 ---
 
-## 📁 Project Structure
